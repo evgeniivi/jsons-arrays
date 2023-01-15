@@ -1,0 +1,31 @@
+body {
+  font-size: 16px;
+  min-width: 500px; }
+
+.button {
+  border-radius: 5px;
+  margin: 10px;
+  padding: 10px;
+  border: 2px solid red;
+  cursor: pointer; }
+
+.header {
+  background-color: white;
+  border-bottom: 1px solid #e6e6e6;
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  z-index: 10; }
+  .header-menu {
+    margin: 10px;
+    color: #403939;
+    font-size: 17px; }
+
+.site__content {
+  margin-top: 100px; }
+
+.desc {
+  display: inline-block;
+  position: relative;
+  padding: 10px; }
